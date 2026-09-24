@@ -93,7 +93,7 @@ O app tem duas telas, conectadas via Navigation Compose e compartilhando a mesma
 
 ## Autor
 
-Ewerton Carreira
+Ewerton Carreira, Replicado por Maya Tavares
 
 ## Licença
 
