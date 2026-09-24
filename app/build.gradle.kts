@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "carreiras.com.github.todolist"
+    namespace = "maya.com.github.todolist"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "carreiras.com.github.todolist"
+        applicationId = "maya.com.github.todolist"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

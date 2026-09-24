@@ -32,7 +32,7 @@ Aplicativo Android de lista de tarefas (to-do list) desenvolvido como projeto di
 O projeto segue o padrão **MVVM (Model-View-ViewModel)**, sem uso de frameworks de injeção de dependência (Hilt/Koin) — a criação de objetos é feita por uma fábrica manual, propositalmente, para fins didáticos.
 
 ```
-app/src/main/java/carreiras/com/github/todolist/
+app/src/main/java/maya/com/github/todolist/
 ├── data/          # Model — Entity, DAO e configuração do banco (Room)
 ├── repository/     # Model — abstrai o acesso a dados para a ViewModel
 ├── viewmodel/       # ViewModel — estado observável (StateFlow) e regras de apresentação
