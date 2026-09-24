@@ -74,6 +74,16 @@ O projeto tem testes unitários (JVM) e instrumentados (Android):
 ./gradlew connectedAndroidTest
 ```
 
+## Capturas de tela
+
+| Lista vazia | Nova tarefa | Tarefa com prazo |
+|---|---|---|
+| <img src="docs/screenshots/lista-vazia.jpeg" width="200" /> | <img src="docs/screenshots/formulario-nova-tarefa.jpeg" width="200" /> | <img src="docs/screenshots/lista-tarefa-com-prazo.jpeg" width="200" /> |
+
+| Tarefa pendente | Tarefa concluída | Lista vazia após remoção |
+|---|---|---|
+| <img src="docs/screenshots/lista-tarefa-pendente.jpeg" width="200" /> | <img src="docs/screenshots/lista-tarefa-concluida.jpeg" width="200" /> | <img src="docs/screenshots/lista-vazia-apos-remocao.jpeg" width="200" /> |
+
 ## Estrutura de navegação
 
 O app tem duas telas, conectadas via Navigation Compose e compartilhando a mesma instância de `TarefaViewModel`:
