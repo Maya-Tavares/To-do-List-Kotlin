@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "To-doList"
+rootProject.name = "fiap-to-do-list"
 include(":app")
  

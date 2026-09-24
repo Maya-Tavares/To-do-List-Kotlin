@@ -1,4 +1,4 @@
-package com.example.to_dolist
+package carreiras.com.github.todolist
 
 import org.junit.Test
 
