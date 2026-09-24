@@ -53,7 +53,7 @@ Uma explicação detalhada e comparada da arquitetura (MVC, MVP, MVI e MVVM), co
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/carreiras/fiap-to-do-list.git
+   git clone https://github.com/Maya-Tavares/To-do-List-Kotlin.git
    ```
 2. Abra a pasta do projeto no Android Studio e aguarde a sincronização do Gradle.
 3. Selecione um emulador ou conecte um dispositivo físico.
